@@ -1,5 +1,7 @@
 # sample-chart-repository
 
+Sample Helm Chart repository hosted on GitHub pages, following the documentation of Helm [docs](https://helm.sh/docs/topics/chart_repository).
+
 ## Usage
 
 [Helm](https://helm.sh) must be installed to use the charts.  Please refer to
